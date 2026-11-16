@@ -1,0 +1,11 @@
+.list {
+  list-style: none;
+}
+.control {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  padding: 8px 16px;
+  margin-bottom: 16px;
+}
